@@ -20,8 +20,6 @@ Java Development Kit (JDK) 8 or higher
 
                                 javac Project.java
 
-
-
 ## Usage
 
 To use the AUTOSAR File Sorter, follow these steps:
